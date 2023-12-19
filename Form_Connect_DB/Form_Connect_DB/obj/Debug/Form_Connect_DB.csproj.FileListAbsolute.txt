@@ -1,0 +1,9 @@
+E:\Công Nghệ .Net\Lab13\Form_Connect_DB\Form_Connect_DB\bin\Debug\Form_Connect_DB.exe.config
+E:\Công Nghệ .Net\Lab13\Form_Connect_DB\Form_Connect_DB\bin\Debug\Form_Connect_DB.exe
+E:\Công Nghệ .Net\Lab13\Form_Connect_DB\Form_Connect_DB\bin\Debug\Form_Connect_DB.pdb
+E:\Công Nghệ .Net\Lab13\Form_Connect_DB\Form_Connect_DB\obj\Debug\Form_Connect_DB.Form1.resources
+E:\Công Nghệ .Net\Lab13\Form_Connect_DB\Form_Connect_DB\obj\Debug\Form_Connect_DB.Properties.Resources.resources
+E:\Công Nghệ .Net\Lab13\Form_Connect_DB\Form_Connect_DB\obj\Debug\Form_Connect_DB.csproj.GenerateResource.cache
+E:\Công Nghệ .Net\Lab13\Form_Connect_DB\Form_Connect_DB\obj\Debug\Form_Connect_DB.csproj.CoreCompileInputs.cache
+E:\Công Nghệ .Net\Lab13\Form_Connect_DB\Form_Connect_DB\obj\Debug\Form_Connect_DB.exe
+E:\Công Nghệ .Net\Lab13\Form_Connect_DB\Form_Connect_DB\obj\Debug\Form_Connect_DB.pdb
